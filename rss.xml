@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://molab.top/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://molab.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>MoLab</title>
+    <link>https://molab.top/</link>
+    <description>A Little Tech Blog</description>
+    <language>zh-CN</language>
+    <pubDate>Sun, 26 Oct 2025 16:22:37 GMT</pubDate>
+    <lastBuildDate>Sun, 26 Oct 2025 16:22:37 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>杂谈</category>
+    <item>
+      <title>这个博客的事</title>
+      <link>https://molab.top/talks/this-blog/</link>
+      <guid>https://molab.top/talks/this-blog/</guid>
+      <source url="https://molab.top/rss.xml">这个博客的事</source>
+      <description>这里收集维护这个博客时发生的我觉得可以写下来的事情</description>
+      <pubDate>Mon, 27 Oct 2025 00:09:08 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这里收集维护这个博客时发生的我觉得可以写下来的事情</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>折腾博客，再一次</title>
+      <link>https://molab.top/talks/this-blog/make-blog-again.html</link>
+      <guid>https://molab.top/talks/this-blog/make-blog-again.html</guid>
+      <source url="https://molab.top/rss.xml">折腾博客，再一次</source>
+      <description>花了几个小时折腾了一下VuePress-theme-hope，重新做了一个小小的博客站点，之后可能再装修装修， 现在这个站点处于一个能work但是几乎啥都没配置好的情况，想到之前尝试（全部没坚持下来）的博客站，写点我对博客的想法 上学，然后没时间维护 墨冉写作本文的时候正在上高二，第一次搭建博客其实也没多远之前，中考后尝试用Wordpress做过一次，...</description>
+      <category>杂谈</category>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>花了几个小时折腾了一下<a href="https://theme-hope.vuejs.press/" target="_blank" rel="noopener noreferrer">VuePress-theme-hope</a>，重新做了一个小小的博客站点，之后可能再装修装修，</p>
+<p>现在这个站点处于一个能work但是几乎啥都没配置好的情况，想到之前尝试（全部没坚持下来）的博客站，写点我对博客的想法</p>
+<h2>上学，然后没时间维护</h2>
+<p>墨冉写作本文的时候正在上高二，第一次搭建博客其实也没多远之前，中考后尝试用Wordpress做过一次，由于租的服务器太烂，卒</p>
+<p>之后用Typecho，说实话挺喜欢Typecho，但是服务器忘记续费（其实也没钱续费），卒</p>
+<p>后面也用过各种各样奇奇怪怪的PHP的博客系统，但是发现我其实都用不上他们，一个VuePress就足够用了，于是开始研究VuePress，一开始只是作为自己 项目的文档站（接触的其实是VitePress），之后回到VuePress，甚至开始学了点前端</p>
+<p>但是由于要上学，真的没时间和机会写博客啊，最近学了一会Vue，才打算重新捡起来，记录记录我的折腾过程，于是就有了这个站点</p>
+<h2>我觉得我会写什么</h2>
+<p>折腾项目的感想，踩过的坑.....也许是时候记下来这些东西了</p>
+<p>同时，由于在学编曲，也感觉需要一个地方分享分享</p>
+<h2>自定义？</h2>
+<p>不得不说<strong>自定义主题</strong>对我们开发者的吸引力太大了</p>
+<p>但是我是UI设计白痴，再加上Vue也刚学，可能就是在<a href="https://theme-hope.vuejs.press/" target="_blank" rel="noopener noreferrer">我现在用的这个主题</a>的基础上做点修修补补，应该够我用了</p>
+<p>哪天不够了再从0写</p>
+<h2>写在后面</h2>
+<p>总之这个站点也许能用起来了，希望我别忘掉</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://molab.top/intro.html</link>
+      <guid>https://molab.top/intro.html</guid>
+      <source url="https://molab.top/rss.xml">About Me</source>
+      <description>关于我 Hi Im Moran0710 一个普通的开发者/学习中的Vocaloid P主</description>
+      <pubDate>Sun, 26 Oct 2025 15:58:41 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>Hi Im Moran0710</p>
+<p>一个普通的开发者/学习中的Vocaloid P主</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
