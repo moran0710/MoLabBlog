@@ -132,6 +132,18 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
+    comment: {
+      provider: "Giscus",
+      repo: "moran0710/MoLabBlog",
+      repoId: "R_kgDOQJfJ4A",
+      category: "Announcements",
+      categoryId: "DIC_kwDOQJfJ4M4CxF9M",
+      mapping: "pathname",
+      strict: false,
+      reactionsEnabled: true,
+      inputPosition: "top",
+      
+    },
     copyright: {
       author: "moran0710",
       license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
