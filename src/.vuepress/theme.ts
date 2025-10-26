@@ -4,81 +4,41 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  darkmode: "switch",
+  hostname: "https://molab.top",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "moran0710",
+    url: "https://github.com/moran0710",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
-
+  repo: "moran0710/MoLabBlog",
+  docsBranch: "main",
   docsDir: "src",
 
   // 导航栏
   navbar,
+  footer: "We Need To Do More. | <a href='/rss.xml'>RSS</a> | <a href='/sitemap.xml'>Site Map</a>",
+  license: "CC 4.0",
 
   // 侧边栏
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
   displayFooter: true,
 
   // 博客相关
   blog: {
-    description: "一个前端开发者",
+    avatar: "https://tc.z.wiki/autoupload/fr/MZ5k-epi0Mh7HEnTf6jc2nJ1g2z4IKY8v7qfC-9y8r6yl5f0KlZfm6UsKj-HyTuv/20251026/2Bjj/1200X1200/fb427e4fa9b2e8a2c9f176d96e0f5cff.png/webp",
+    description: "下个单位再见",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Instagram: "https://example.com",
-      Lark: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+
     },
   },
 
-  // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
-    },
-  },
 
   // 多语言配置
   metaLocales: {
@@ -122,13 +82,11 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
 
-    // 取消注释它们如果你需要 TeX 支持
-    // math: {
-    //   // 启用前安装 katex
-    //   type: "katex",
-    //   // 或者安装 mathjax-full
-    //   type: "mathjax",
-    // },
+
+    math: {
+       // 启用前安装 katex
+     type: "katex",
+    },
 
     // 如果你需要幻灯片，安装 @vuepress/plugin-revealjs 并取消下方注释
     // revealjs: {
@@ -174,6 +132,20 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
+    copyright: {
+      author: "moran0710",
+      license: "Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International",
+      global: true,
+    },
+
+    feed: {
+      rss: true,
+      json: true,
+      atom: true,
+    },
+
+
+    slimsearch: true,
 
     icon: {
       prefix: "fa6-solid:",

@@ -1,8 +1,13 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
+title: About Me
+date: 2025-10-26T15:58:41.431Z
 ---
 
-# 介绍页
+# 关于我
 
-将你的个人介绍和档案放置在此处。
+Hi Im Moran0710
+
+一个普通的开发者/学习中的Vocaloid P主
+
+
