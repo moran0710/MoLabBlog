@@ -137,7 +137,7 @@ export default hopeTheme({
       repo: "moran0710/MoLabBlog",
       repoId: "R_kgDOQJfJ4A",
       category: "Comment",
-      categoryId: "DIC_kwDOQJfJ4M4CxF9M",
+      categoryId: "DIC_kwDOQJfJ4M4CxF-O",
       mapping: "pathname",
       strict: false,
       reactionsEnabled: true,
