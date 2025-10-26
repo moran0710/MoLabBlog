@@ -136,13 +136,13 @@ export default hopeTheme({
       provider: "Giscus",
       repo: "moran0710/MoLabBlog",
       repoId: "R_kgDOQJfJ4A",
-      category: "Announcements",
+      category: "Comment",
       categoryId: "DIC_kwDOQJfJ4M4CxF9M",
       mapping: "pathname",
       strict: false,
       reactionsEnabled: true,
       inputPosition: "top",
-      
+
     },
     copyright: {
       author: "moran0710",
