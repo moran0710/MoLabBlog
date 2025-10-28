@@ -6,11 +6,21 @@
     <link>https://molab.top/</link>
     <description>A Little Tech Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 26 Oct 2025 16:48:47 GMT</pubDate>
-    <lastBuildDate>Sun, 26 Oct 2025 16:48:47 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2025 13:30:53 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2025 13:30:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>杂谈</category>
+    <item>
+      <title>技术杂谈</title>
+      <link>https://molab.top/talks/tech/</link>
+      <guid>https://molab.top/talks/tech/</guid>
+      <source url="https://molab.top/rss.xml">技术杂谈</source>
+      <description>这里收集我在coding的时候的想法</description>
+      <pubDate>Mon, 27 Oct 2025 00:09:08 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这里收集我在coding的时候的想法</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>这个博客的事</title>
       <link>https://molab.top/talks/this-blog/</link>

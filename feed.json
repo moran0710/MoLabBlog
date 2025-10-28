@@ -6,6 +6,17 @@
   "description": "A Little Tech Blog",
   "items": [
     {
+      "title": "技术杂谈",
+      "url": "https://molab.top/talks/tech/",
+      "id": "https://molab.top/talks/tech/",
+      "summary": "这里收集我在coding的时候的想法",
+      "content_html": "<p>这里收集我在coding的时候的想法</p>\n",
+      "date_published": "2025-10-27T00:09:08.000Z",
+      "date_modified": "2025-10-28T13:30:10.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "这个博客的事",
       "url": "https://molab.top/talks/this-blog/",
       "id": "https://molab.top/talks/this-blog/",
@@ -23,7 +34,7 @@
       "summary": "花了几个小时折腾了一下VuePress-theme-hope，重新做了一个小小的博客站点，之后可能再装修装修， 现在这个站点处于一个能work但是几乎啥都没配置好的情况，想到之前尝试（全部没坚持下来）的博客站，写点我对博客的想法 上学，然后没时间维护 墨冉写作本文的时候正在上高二，第一次搭建博客其实也没多远之前，中考后尝试用Wordpress做过一次，...",
       "content_html": "<p>花了几个小时折腾了一下<a href=\"https://theme-hope.vuejs.press/\" target=\"_blank\" rel=\"noopener noreferrer\">VuePress-theme-hope</a>，重新做了一个小小的博客站点，之后可能再装修装修，</p>\n<p>现在这个站点处于一个能work但是几乎啥都没配置好的情况，想到之前尝试（全部没坚持下来）的博客站，写点我对博客的想法</p>\n<h2>上学，然后没时间维护</h2>\n<p>墨冉写作本文的时候正在上高二，第一次搭建博客其实也没多远之前，中考后尝试用Wordpress做过一次，由于租的服务器太烂，卒</p>\n<p>之后用Typecho，说实话挺喜欢Typecho，但是服务器忘记续费（其实也没钱续费），卒</p>\n<p>后面也用过各种各样奇奇怪怪的PHP的博客系统，但是发现我其实都用不上他们，一个VuePress就足够用了，于是开始研究VuePress，一开始只是作为自己 项目的文档站（接触的其实是VitePress），之后回到VuePress，甚至开始学了点前端</p>\n<p>但是由于要上学，真的没时间和机会写博客啊，最近学了一会Vue，才打算重新捡起来，记录记录我的折腾过程，于是就有了这个站点</p>\n<h2>我觉得我会写什么</h2>\n<p>折腾项目的感想，踩过的坑.....也许是时候记下来这些东西了</p>\n<p>同时，由于在学编曲，也感觉需要一个地方分享分享</p>\n<h2>自定义？</h2>\n<p>不得不说<strong>自定义主题</strong>对我们开发者的吸引力太大了</p>\n<p>但是我是UI设计白痴，再加上Vue也刚学，可能就是在<a href=\"https://theme-hope.vuejs.press/\" target=\"_blank\" rel=\"noopener noreferrer\">我现在用的这个主题</a>的基础上做点修修补补，应该够我用了</p>\n<p>哪天不够了再从0写</p>\n<h2>写在后面</h2>\n<p>总之这个站点也许能用起来了，希望我别忘掉</p>\n",
       "date_published": "2025-10-26T00:00:00.000Z",
-      "date_modified": "2025-10-26T16:20:03.000Z",
+      "date_modified": "2025-10-28T13:30:10.000Z",
       "authors": [],
       "tags": [
         "杂谈"
