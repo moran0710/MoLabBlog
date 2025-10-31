@@ -6,6 +6,31 @@
   "description": "A Little Tech Blog",
   "items": [
     {
+      "title": "编曲笔记",
+      "url": "https://molab.top/music/note/",
+      "id": "https://molab.top/music/note/",
+      "summary": "这里是学编曲的笔记 （本人编曲菜，各位大佬勿喷） （我的笔记会偏草稿流）",
+      "content_html": "<p>这里是学编曲的笔记</p>\n<p>（本人编曲菜，各位大佬勿喷）</p>\n<p>（我的笔记会偏草稿流）</p>\n",
+      "date_published": "2025-10-31T23:36:48.000Z",
+      "date_modified": "2025-10-31T17:18:46.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "音程，和弦",
+      "url": "https://molab.top/music/note/%E9%9F%B3%E7%A8%8B.html",
+      "id": "https://molab.top/music/note/%E9%9F%B3%E7%A8%8B.html",
+      "summary": "音程 概念 用处：衡量音之间的距离 记法：属性+数字+单位 如：纯五度 计算方法： 邪门方法 度数：数两个音之间包含多少个白键（全音数），如果音有升降，则先把其还原 属性：一共有：纯/大/小/增/减/倍增/倍减 一度，四度，五度，八度可以用纯/增/减/倍增/倍减 二度，三度，六度，七度可以用大/小/增/减/倍增/倍减 一四五八只有纯，二三六七分大小 标...",
+      "content_html": "\n<h1>音程</h1>\n<h2>概念</h2>\n<p>用处：衡量音之间的距离</p>\n<p>记法：属性+数字+单位</p>\n<p>如：纯五度</p>\n<h2>计算方法：</h2>\n<p><em>邪门方法</em></p>\n<ol>\n<li>度数：数两个音之间包含多少个白键（全音数），如果音有升降，则先把其还原</li>\n<li>属性：一共有：纯/大/小/增/减/倍增/倍减</li>\n<li>一度，四度，五度，八度可以用纯/增/减/倍增/倍减</li>\n<li>二度，三度，六度，七度可以用大/小/增/减/倍增/倍减</li>\n<li>一四五八只有纯，二三六七分大小</li>\n<li>标准音程表：</li>\n</ol>\n<p>|     | 纯一度 | 大二度 | 大三度 | 纯四度 | 纯五度 | 大六度 | 大七度 | 纯八度 |<br>\n|</p>\n",
+      "image": "https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEEOmppBO7ydv01tdc4mpZgxioxpj0CCAACuRoAAgJcKVRb9KGUXbXQljYE.png",
+      "date_published": "2025-10-31T17:18:46.000Z",
+      "date_modified": "2025-10-31T17:18:46.000Z",
+      "authors": [],
+      "tags": [
+        "乐理笔记"
+      ]
+    },
+    {
       "title": "技术杂谈",
       "url": "https://molab.top/talks/tech/",
       "id": "https://molab.top/talks/tech/",

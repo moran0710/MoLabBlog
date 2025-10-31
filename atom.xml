@@ -3,11 +3,70 @@
   <id>https://molab.top/</id>
   <title>MoLab</title>
   <subtitle>A Little Tech Blog</subtitle>
-  <updated>2025-10-28T13:30:53.136Z</updated>
+  <updated>2025-10-31T17:19:25.993Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://molab.top/atom.xml"/>
   <link rel="alternate" href="https://molab.top/"/>
+  <category term="乐理笔记"/>
   <category term="杂谈"/>
+  <entry>
+    <title type="text">编曲笔记</title>
+    <id>https://molab.top/music/note/</id>
+    <link href="https://molab.top/music/note/"/>
+    <updated>2025-10-31T17:18:46.000Z</updated>
+    <summary type="html"><![CDATA[<p>这里是学编曲的笔记</p>
+<p>（本人编曲菜，各位大佬勿喷）</p>
+<p>（我的笔记会偏草稿流）</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>这里是学编曲的笔记</p>
+<p>（本人编曲菜，各位大佬勿喷）</p>
+<p>（我的笔记会偏草稿流）</p>
+]]></content>
+    <published>2025-10-31T23:36:48.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">音程，和弦</title>
+    <id>https://molab.top/music/note/%E9%9F%B3%E7%A8%8B.html</id>
+    <link href="https://molab.top/music/note/%E9%9F%B3%E7%A8%8B.html"/>
+    <updated>2025-10-31T17:18:46.000Z</updated>
+    <summary type="html"><![CDATA[
+<h1>音程</h1>
+<h2>概念</h2>
+<p>用处：衡量音之间的距离</p>
+<p>记法：属性+数字+单位</p>
+<p>如：纯五度</p>
+<h2>计算方法：</h2>
+<p><em>邪门方法</em></p>
+<ol>
+<li>度数：数两个音之间包含多少个白键（全音数），如果音有升降，则先把其还原</li>
+<li>属性：一共有：纯/大/小/增/减/倍增/倍减</li>
+<li>一度，四度，五度，八度可以用纯/增/减/倍增/倍减</li>
+<li>二度，三度，六度，七度可以用大/小/增/减/倍增/倍减</li>
+<li>一四五八只有纯，二三六七分大小</li>
+<li>标准音程表：</li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[
+<h1>音程</h1>
+<h2>概念</h2>
+<p>用处：衡量音之间的距离</p>
+<p>记法：属性+数字+单位</p>
+<p>如：纯五度</p>
+<h2>计算方法：</h2>
+<p><em>邪门方法</em></p>
+<ol>
+<li>度数：数两个音之间包含多少个白键（全音数），如果音有升降，则先把其还原</li>
+<li>属性：一共有：纯/大/小/增/减/倍增/倍减</li>
+<li>一度，四度，五度，八度可以用纯/增/减/倍增/倍减</li>
+<li>二度，三度，六度，七度可以用大/小/增/减/倍增/倍减</li>
+<li>一四五八只有纯，二三六七分大小</li>
+<li>标准音程表：</li>
+</ol>
+<p>|     | 纯一度 | 大二度 | 大三度 | 纯四度 | 纯五度 | 大六度 | 大七度 | 纯八度 |<br>
+|</p>
+]]></content>
+    <category term="乐理笔记"/>
+    <published>2025-10-31T17:18:46.000Z</published>
+  </entry>
   <entry>
     <title type="text">技术杂谈</title>
     <id>https://molab.top/talks/tech/</id>
