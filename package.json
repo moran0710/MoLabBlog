@@ -1,33 +1,45 @@
 {
-  "name": "molab-blog",
-  "description": "Moran0710's Blog!!!",
-  "version": "2.0.0",
-  "license": "Creative Commons",
+  "name": "molab",
   "type": "module",
+  "version": "1.0.0",
+  "description": "墨云实验室",
+  "packageManager": "pnpm@10.19.0",
+  "author": "moran <3575331055@qq.com>",
+  "license": "MIT",
   "scripts": {
-    "docs:build": "vuepress-vite build src",
-    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
-    "docs:dev": "vuepress-vite dev src",
-    "docs:update-package": "pnpm dlx vp-update"
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "pnpm dlx vp-update"
   },
-  "packageManager": "pnpm@9.0.0",
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.26",
-    "@vuepress/plugin-auto-frontmatter": "2.0.0-rc.115",
-    "sass-embedded": "^1.93.2",
-    "vue": "^3.5.22",
+    "http-server": "^14.1.1",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.25",
     "vuepress": "2.0.0-rc.26",
-    "vuepress-theme-hope": "2.0.0-rc.96"
+    "vuepress-theme-plume": "1.0.0-rc.183"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
+      "@parcel/watcher",
       "esbuild"
     ]
   },
+  "engines": {
+    "node": "^20.19.0 || >=22.0.0"
+  },
   "dependencies": {
-    "@vuepress/plugin-feed": "2.0.0-rc.3",
-    "@vuepress/plugin-slimsearch": "2.0.0-rc.61",
-    "dayjs": "^1.11.18",
-    "katex": "^0.16.25"
+    "@vuepress/shiki-twoslash": "2.0.0-rc.121",
+    "artplayer": "^5.3.0",
+    "chart.js": "^4.5.1",
+    "dashjs": "^5.1.1",
+    "echarts": "^6.0.0",
+    "flowchart.ts": "^3.0.1",
+    "hls.js": "^1.6.15",
+    "mermaid": "^11.12.2",
+    "mpegts.js": "^1.8.0",
+    "pyodide": "^0.29.0"
   }
 }
