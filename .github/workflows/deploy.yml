@@ -29,10 +29,6 @@ jobs:
           # 选择要使用的 node 版本
           node-version: 22
 
-      - name: Force Git to use HTTPS
-        run:
-          git config --global url."https://github.com/".insteadOf git@github.com
-
       # 安装依赖
       # Install dependencies
       - name: Install Dependencies
