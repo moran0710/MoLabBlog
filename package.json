@@ -22,6 +22,9 @@
     "vuepress-theme-plume": "1.0.0-rc.183"
   },
   "pnpm": {
+    "overrides": {
+      "webworkify-webpack": "npm:webworkify-webpack@github:xqq/webworkify-webpack#main"
+    },
     "onlyBuiltDependencies": [
       "@parcel/watcher",
       "esbuild"
